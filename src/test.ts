@@ -1,3 +1,3 @@
 export const func = () => {
-    return "private package"
+    return "private package";
 }
