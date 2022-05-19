@@ -1,0 +1,25 @@
+{
+    "name": "@bhuynh78/public-package-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bhuynh78/public-package-test.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/bhuynh78/public-package-test/issues"
+    },
+    "homepage": "https://github.com/bhuynh78/public-package-test#readme",
+    "dependencies": {
+        "typescript": "^4.6.4"
+    }
+}
